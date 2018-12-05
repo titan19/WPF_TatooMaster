@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Admin\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Admin\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_TatooMaster.133137890.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Admin\RiderProjects\TatooMaster" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="TatooMaster" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="App.xaml" t="Include" />
+        <e p="App.xaml.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="example.json" t="Include" />
+        <e p="MainWindow.xaml" t="Include" />
+        <e p="MainWindow.xaml.cs" t="Include" />
+        <e p="Models" t="Include">
+          <e p="Entry.cs" t="Include" />
+          <e p="Master.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+        </e>
+        <e p="Register.cs" t="Include" />
+        <e p="TatooMaster.csproj" t="IncludeRecursive" />
+        <e p="UserControls" t="Include">
+          <e p="EntriesView.xaml" t="Include" />
+          <e p="EntriesView.xaml.cs" t="Include" />
+          <e p="MasterView.xaml" t="Include" />
+          <e p="MasterView.xaml.cs" t="Include" />
+        </e>
+      </e>
+      <e p="TatooMaster.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
